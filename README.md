@@ -1,3 +1,3 @@
 # Curso Digital: git
 ## novo titulo
-## mai um titulo modificado
+## mais um titulo modificado
